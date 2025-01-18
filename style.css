@@ -220,7 +220,7 @@ img{
 }
 .top画像 img{
   margin-top: 0px;
-  width:1500px;
+  width:120%;
 }
 @media screen and (max-width: 959px) {
   .top画像 img{
