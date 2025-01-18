@@ -220,22 +220,9 @@ img{
 }
 .top画像 img{
   margin-top: 0px;
-  width:120%;
+  width: 100%;
 }
-@media screen and (max-width: 959px) {
-  .top画像 img{
-    margin-top: 0px;
-    width:1000px;
-  }
-    /* 959px以下に適用されるCSS（タブレット用） */
-  }
-  @media screen and (max-width: 480px) {
-    .top画像 img{
-      margin-top: 0px;
-      width: 750px;
-    }
-    /* 480px以下に適用されるCSS（スマホ用） */
-  }
+
 .top画像 h2{
   position: absolute;
   left: 50%;
