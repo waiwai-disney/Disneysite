@@ -59,7 +59,7 @@ h5{
    0.2vw -0.2vw 0 #000,
    -0.2vw 0.2vw 0 #000,
     0.2vw 0.2vw 0 #000;
-  font-size: 5vw;
+  font-size: 60px;
   color: #ffffff;
 }
 h6{
@@ -69,7 +69,7 @@ h6{
    0.2vw -0.2vw 0 #000,
    -0.2vw 0.2vw 0 #000,
     0.2vw 0.2vw 0 #000;
-  font-size: 3vw;
+  font-size: 50px;
   color: #ffffff;
 }
 p{
@@ -261,7 +261,7 @@ img{
   padding-top: 0px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 50px;
+  margin-top: 5vw;
   border-width: 0.5vw;
   border-style: solid;
   border-color: #423333;
